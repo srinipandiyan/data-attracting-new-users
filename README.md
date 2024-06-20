@@ -1,1 +1,2 @@
 # data-attracting-new-users
+This repository contains a data science project I worked on before studying software engineering. Datasets from Kaggle were used to determine the layout of Apple App Store and Google Play Store offerings. Analyses quantifying data by app rating, market saturation, number in each app category, among other measures were run to determine optimal entry into each market as an emerging app developer.
